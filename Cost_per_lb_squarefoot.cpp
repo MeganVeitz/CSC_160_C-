@@ -1,5 +1,5 @@
 //Logic errors.
-//Figuring out cost of fertilizor per pound and square foot.
+//Figuring out the cost of fertilizer per pound and square foot.
 #include <iostream>
 #include <iomanip>
 
