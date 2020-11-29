@@ -1,4 +1,10 @@
 *.dSYM/
-
+build/
+Lab8_2/build/
 *.swp
-
+CMakeLists.txt
+*.pdf
+*.zip
+.vscode/
+*.o
+.DS_Store
