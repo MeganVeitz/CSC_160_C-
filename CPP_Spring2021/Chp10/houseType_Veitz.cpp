@@ -84,4 +84,3 @@ void houseType::display(){
    cout << "The price of the house is: " << price << endl;
    cout << "The tax percent is: " << tax << "%" << endl;
 }
-
